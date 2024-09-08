@@ -8,7 +8,6 @@ body{
     background-image: url("img/bg.png");
     background-size: cover;
     background-repeat: no-repeat;
-
 }
 
 button{
@@ -100,6 +99,17 @@ h1{
     max-height: 58vh;
     min-height: 25vh;
     border-radius: 10px;
+}
+
+.center{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.weekday{
+    width: 20vh;
+    height: 6vh;
+    border-radius: 4px;
 }
 
 
